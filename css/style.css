@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	background-color:#fff;
+	color:#433022
+	}
+	.navbar{
+		margin-bottom:0px;
+		
+		}
+	.carousel{
+		height:auto;
+		overflow:hidden;
+		background-color:#fff;
+		margin-bottom:60px;
+		
+		}
+	.carousel .item{
+		height:auto;
+		background-color:#fff;
+		}
+	.carousel img{
+		width:100%;
+		}
+
+	
+	
+.tab-pane {
+	color:#433022;
+	text-align:center;
+	
+		
+	}
+ h2{
+	font-size:80px;
+	}
+	
+.ziti{
+	font-size:20px;
+	
+	margin-top:10%;
+	
+	}
+	
+.tab-content img{
+	width:100%;
+	overflow:hidden;
+	
+	}
+.col-md-4{
+	text-align:centerl;
+	}
+
+
+.tupian{
+	overflow:hidden;
+	background-color:#fff;
+	}
+	
+.tupian img{
+	width:100%;
+	}
+.tu{
+	overflow:hidden;
+	}
+
+.zuo{
+	overflow:hidden;
+	}
+.you{
+	overflow:hidden;
+	}
+	
+
+.cai img{
+	width:100%;
+	}
+.biaoqianye{
+	margin-bottom:50px;
+	
+	}
+.renw{
+	margin-bottom:75px;
+	margin-top;25px;
+
+	}
+
+	
+.rong{
+	margin-bottom:75px;
+	}
+.shouji:hover{
+	background:#E15151;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
